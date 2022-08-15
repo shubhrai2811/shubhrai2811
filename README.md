@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhlusiferrai@gmail.com**
 
-- 📄 Know about my experiences <a href='[https://www.freecodecamp.org/](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)'><button>Resume</button></a>
+- 📄 Know about my experiences <a href='[https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)'><button>Resume</button></a>
 - [https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)
 
 - ⚡ Fun fact **yesli ya skazhu tebe, chto ya dolzhen ubit' tebya**
