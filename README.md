@@ -7,12 +7,11 @@
 
 - 💬 Ask me about **C++,Python, Gaming and Music**
 
-- 📫 How to reach me **shubhlusiferrai@gmail.com**
+- 📫 How to reach me : **shubhlusiferrai@gmail.com**
 
-- 📄 Know about my experiences <a href='[https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)'><button>Resume</button></a>
-- [https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)
+- 📄 Know about my experiences : [resume](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)
 
-- ⚡ Fun fact **yesli ya skazhu tebe, chto ya dolzhen ubit' tebya**
+- ⚡ Fun fact  : **yesli ya skazhu tebe, chto ya dolzhen ubit' tebya**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
