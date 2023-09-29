@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubh Rai</h1>
-<h3 align="center">A passionate backend developer from India. I love working with C++</h3>
+<h3 align="center">A passionate ML and backend developer. I love working with C++</h3>
 
-- 🌱 I’m currently learning **Data structures, BlockChain Development and ML**
+- 🌱 I’m currently learning **Data Science, ML, LLMs and App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhrai2811](https://github.com/shubhrai2811)
 
-- 💬 Ask me about **C++,Python, Gaming and Music**
+- 💬 Ask me about **Gaming ,Music, Python, C++**
 
-- 📫 How to reach me : **shubhlusiferrai@gmail.com**
+- 📫 How to reach me: **shubhlusiferrai@gmail.com**
 
-- 📄 Know about my experiences : [resume](https://drive.google.com/file/d/1yoht44jrGnJe4fA6cdXWmQ_4Lq8g1_Gx/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1Iw5upIN4N7QAkAIdmEUJB-wHAyK9lE3c/view?usp=drive_link)
 
 - ⚡ Fun fact  : **yesli ya skazhu tebe, chto ya dolzhen ubit' tebya**
 
