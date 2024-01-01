@@ -1,20 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)](https://github.com/shubhrai2811)
 <h1 align="center">Hi 👽, I'm Shubh Rai</h1>
 <h3 align="center">“Errors using inadequate data are much less than those using no data at all !!”</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhrai2811&label=Profile%20views&color=0e75b6&style=flat" alt="shubhrai2811" /> </p>
 
-- 🌱 I’m currently learning **Data Science, ML, LLMs and App Development**
+- 🌱 I’m currently learning : **Data Science, ML, LLMs, and App Development**
 
-- 👨‍💻 Checkout my portfolio [https://shubhrai2811.github.io/](https://shubhrai2811.github.io/)
+- 👨‍💻 Checkout my portfolio : [Portfolio Website](https://shubhrai2811.github.io/)
 
-- 💬 Ask me about **Python ,Data Science ,Flutter**
+- 💬 Ask me about : **Python ,Data Science ,Flutter**
 
-- 📫 How to reach me **shubhlusiferrai@gmail.com**
+- 📫 How to reach me : **shubhlusiferrai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kBTlV-u-1XhT8G9a-xmEJ4XlNUeNPBdb/view?usp=sharing](https://drive.google.com/file/d/1kBTlV-u-1XhT8G9a-xmEJ4XlNUeNPBdb/view?usp=sharing)
+- 📄 Know about my experiences : [Resume Here](https://drive.google.com/file/d/1kBTlV-u-1XhT8G9a-xmEJ4XlNUeNPBdb/view?usp=sharing)
 
-- ⚡ Fun fact **I'm an Avid Traveler, Adventurer, and Gamer, Collecting unique and unforgettable experiences along the way!**
+- ⚡ Fun fact : **I'm an Avid Traveler, Adventurer, and Gamer, Collecting unique and unforgettable experiences along the way!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
