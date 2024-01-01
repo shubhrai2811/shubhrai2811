@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubh Rai</h1>
+[![MasterHead](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)](https://github.com/shubhrai2811)
+<h1 align="center">Hi 👽, I'm Shubh Rai</h1>
 <h3 align="center">“Errors using inadequate data are much less than those using no data at all !!”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhrai2811&label=Profile%20views&color=0e75b6&style=flat" alt="shubhrai2811" /> </p>
