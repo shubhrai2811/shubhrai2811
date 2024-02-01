@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning : **Data Science, ML, LLMs, and App Development**
 
-- 👨‍💻 Checkout my portfolio : [Portfolio Website](https://shubhrai2811.github.io/)
+- 👨‍💻 Checkout my portfolio : [Portfolio Website](https://shubhrai.vercel.app/)
 
 - 💬 Ask me about : **Python ,Data Science ,Flutter**
 
